@@ -1,1 +1,2 @@
 StoRM FlowSE
+minor
